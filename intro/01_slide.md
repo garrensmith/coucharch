@@ -1,4 +1,4 @@
-!SLIDE 
+!SLIDE center
 # Relax with Couchdb #
 ![couch](couchdb.png)
 
@@ -12,3 +12,5 @@
 * What is Couchdb
 * How is it relevant
 * When to use it
+
+
