@@ -1,6 +1,9 @@
 { "name": "Couchdb", "sections": [ 
   {"section":"intro"},
-  {"section":"what"}
+  {"section":"what"},
+  {"section":"when"},
+  {"section":"conclusion"}
+
   
   ]
 }

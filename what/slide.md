@@ -20,6 +20,7 @@
 * Multi-Version Concurrency Control
 * Restful Client
 * Map Reduce
+* Replication
 
 
 !SLIDE center transition=scrollLeft
@@ -60,6 +61,15 @@
 #MapReduce - create a view
 * Aggregation and reporting on documents
 * Done using Javascript
+* Results in json
+
+!SLIDE bullets incremental transition=scrollLeft
+#Replication
+* Eventual Consistency 
+* Incremental
+* Conflict resolution
+
+
 
 
 
