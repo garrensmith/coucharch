@@ -56,12 +56,11 @@
 #MapReduce - create a view
 ![view](view.jpg)
 
-!SLIDE transition=scrollLeft
-#Map
-Map input data --> Output Data
+!SLIDE bullets incremental transition=scrollLeft
+#MapReduce - create a view
+* Aggregation and reporting on documents
+* Done using Javascript
 
-!SLIDE transition=scrollLeft
-Reduce
 
 
 
