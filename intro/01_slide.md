@@ -10,7 +10,7 @@
 # Table of Contents
 
 * What is Couchdb
-* How is it relevant
+* How does it work 
 * When to use it
 
 
